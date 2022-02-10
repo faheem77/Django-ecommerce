@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 autopep8 = "==1.4.4"
-django = "==2.2.13"
+django = "==2.2.27"
 pep8 = "==1.7.1"
 pycodestyle = "==2.5.0"
 pytz = "==2018.5"
